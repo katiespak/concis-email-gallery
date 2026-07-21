@@ -1,22 +1,28 @@
 # Concis Labs — email templates
 
-Five HTML email templates for Concis Labs, with a gallery for viewing them.
+Six HTML email templates for Concis Labs, with a gallery for viewing them.
 
 **[View the gallery →](https://katiespak.github.io/concis-email-gallery/)**
 
 ```
-index.html   gallery — live renders of all five, with a zoom control
-r2/          the templates
+index.html   gallery — live renders of all six, with a zoom control
+r2/          the five broadcast templates
+lyndon/      the transactional template
 assets/      image assets
 ```
 
-| Template | Notes |
-|---|---|
-| Welcome / Onboarding | Cream card, illustration, three onboarding steps |
-| Weekly Digest | Lime badge; cream state cards plus a peach "coming up" card |
-| PA Criteria Update | Peach badge; dark card with dash bullets, then a key-takeaway card |
-| Alert / Market Insight | Mint badge; dark card, three dash-bulleted items |
-| Feature Launch | Cream card with three screenshot + heading + body sections |
+| Template | Kind | Notes |
+|---|---|---|
+| Welcome / Onboarding | Broadcast | Cream card, illustration, three onboarding steps |
+| Weekly Digest | Broadcast | Lime badge; cream state cards plus a peach "coming up" card |
+| PA Criteria Update | Broadcast | Peach badge; dark card with dash bullets, then a key-takeaway card |
+| Alert / Market Insight | Broadcast | Mint badge; dark card, three dash-bulleted items |
+| Feature Launch | Broadcast | Cream card with three screenshot + heading + body sections |
+| Lyndon — Roster Response | Transactional | Roster table, three columns, no unsubscribe |
+
+The transactional template is shown with **sample data — all names and
+organizations in it are fictional.** It carries no unsubscribe link by design:
+it's a reply to a question the recipient asked, not a campaign.
 
 ## Design system
 
